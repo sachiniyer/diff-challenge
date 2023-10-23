@@ -1,3 +1,7 @@
+### Completed
+
+https://github.com/ggerganov/diff-challenge/pull/9
+
 ### The Diff Challenge
 
 Start with a program `x`. Modify it to obtain a new version `y`.  
